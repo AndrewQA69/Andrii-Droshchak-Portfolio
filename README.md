@@ -16,7 +16,11 @@ Tools:
 •	TestRail / Google Sheets – writing and maintaining test cases and checklists  
 •	DevTools (Chrome) – DOM inspection, analyzing network requests, JavaScript console errors, working with LocalStorage and Cookies  
 Databases:  
-•	Writing SQL queries (SELECT, JOIN, WHERE, GROUP BY) to validate database content  
+•	SQL - SELECT (*, LIKE, TOP), FROM, WHERE, GROUP BY, ORDER BY(ASC, DESC), UPDATE(SET), ALTER TABLE(ADD), INSERT INTO  
+AND,BETWEEN,IN,LIKE,OR,NOT,NULL,IS NOT NULL  
+COUNT() SUM, MIN  
+INNER JOIN,RIGHT JOIN,LEFT JOIN, AS  
+=,!=,<>,>,<,>=,<=,!<,!>  				 
 Test Documentation:  
 •	Writing test cases, checklists, and bug reports  
 •	Familiar with test plan creation  
