@@ -12,37 +12,30 @@ Testing:
 •	Test design techniques: equivalence partitioning, boundary value analysis, pairwise testing  
 Tools:  
 •	Postman – API testing (GET, POST, PUT, DELETE), request creation, response validation  
-•	Jira – bug tracking, task creation, participation in test cycles  
+•	Jira – bug tracking, task creation, participation in test cycles 
+•	Google Drive - storing data
+• Git - for better work in development team and controlling software versions
+• GitHub - supporting Git and preparing my repositories
+• Workbench - practicing SQL 
+• Visual Studio Code - practicing HTML and CSS
 •	TestRail / Google Sheets – writing and maintaining test cases and checklists  
-•	DevTools (Chrome) – DOM inspection, analyzing network requests, JavaScript console errors, working with LocalStorage and Cookies  
-Databases:  
-•	SQL - SELECT (*, LIKE, TOP), FROM, WHERE, GROUP BY, ORDER BY(ASC, DESC), UPDATE(SET), ALTER TABLE(ADD), INSERT INTO  
-AND,BETWEEN,IN,LIKE,OR,NOT,NULL,IS NOT NULL  
-COUNT() SUM, MIN  
-INNER JOIN,RIGHT JOIN,LEFT JOIN, AS  
-=,!=,<>,>,<,>=,<=,!<,!>  				 
-Test Documentation:  
-•	Writing test cases, checklists, and bug reports  
-•	Familiar with test plan creation  
+•	DevTools (Chrome) – DOM inspection, analyzing network requests, JavaScript console errors, working with LocalStorage and Cookies    
 
-
-
-Tools 🔧
-Jira, - project management
-Chrome Devtools - for better testing and improving bug reports
-Google Drive - storing data
-Git - for better work in development team and controlling software versions
-GitHub - supporting Git and preparing my repositories
-Workbench - practicing SQL
-Postman - API testing
-Visual Studio Code - practicing HTML and CSS
-Tech skills 💻
-SQL
-SELECT (*, LIKE, TOP), FROM, WHERE, GROUP BY, ORDER BY(ASC, DESC), UPDATE(SET), ALTER TABLE(ADD), INSERT INTO
-AND,BETWEEN,IN,LIKE,OR,NOT,NULL,IS NOT NULL
-COUNT() SUM, MIN
-INNER JOIN,RIGHT JOIN,LEFT JOIN, AS
-=,!=,<>,>,<,>=,<=,!<,!>				
+Tech skills:  
+Databases:    
+•	SQL   
+| Syntax and Order of Execution | Comparison Operators | Logical Operators | Scalar Functions                         | Aggregation Functions | Others     |
+|-------------------------------|-----------------------|-------------------|------------------------------------------|------------------------|------------|
+| SELECT (*, LIKE, TOP)         | =                     | AND               | GETDATE                                  | COUNT()               | JOIN       |
+| FROM                          | !=                    | BETWEEN           | UPPER                                    | SUM()                 | AS         |
+| WHERE                         | <>                    | IN                | LOWER                                    | MIN()                 | UNION      |
+| GROUP BY                      | >                     | LIKE              | DATEDIFF (HOUR, MONTH, YEAR, etc.)       |                        |            |
+| ORDER BY (ASC, DESC)          | <                     | NOT               |                                          |                        |            |
+| UPDATE (SET)                  | >=                    | OR                |                                          |                        |            |
+| ALTER TABLE (ADD)             | <=                    | IS NULL           |                                          |                        |            |
+| INSERT INTO                   | !<                    | IS NOT NULL       |                                          |                        |            |
+|                               | !>                    |                   |                                          |                        |            |
+			
 Rest API testing
 Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
 Software testing
@@ -52,6 +45,11 @@ Creating bug reports
 Basic HTML and CSS
 Creating documentation
 performing smoke tests
+
+Test Documentation:  
+•	Writing test cases, checklists, and bug reports  
+•	Familiar with test plan creation 
+
 Soft skills 📁
 precision
 communication
