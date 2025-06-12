@@ -88,7 +88,7 @@ _2019 – 2024_
 
 ## 📁 Project Example
 
-🔹 **[Demoblaze Test – Test Cases (Excel)]([https://github.com/AndrewQA69/demoblazetest/blob/main/testcases_demoblaze.xlsx](https://github.com/AndrewQA69/demoblazetest/blob/main/README.md))**  
+🔹 **[Demoblaze Test – Test Cases (Excel)]([[https://github.com/AndrewQA69/demoblazetest/blob/main/testcases_demoblaze.xlsx](https://github.com/AndrewQA69/demoblazetest/blob/main/README.md](https://github.com/AndrewQA69/demoblazetest)))**  
 Personal manual testing practice on demoblaze.com – includes test cases for user flows such as login, registration, cart, and more.
 
 ---
