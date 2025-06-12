@@ -1,66 +1,93 @@
-# Andrii-Droshchak-Portfolio
+# Andrii Droshchak – QA Portfolio
 
-Portfolio
-About me 👋
-Hi, my name is Andrii. Since the beginning of 2025 I have been studying and practicing to become a QA. I am happy to have finally found an area in which I can successfully develop myself. In the QA position I see the potential to make, at the very least, the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through university and self-study. I am determined to continue to grow in this field. I have also started learning test automation in, so at the moment my main focus is on furthering my knowledge (and practice!) in this area.
+## 👋 About Me
 
-[My LinkedIn profile](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D0%B4%D1%80%D0%BE%D1%89%D0%B0%D0%BA-48185836a/)
-🛠 Technical Skills  
-Testing:  
-• Understanding of SDLC and STLC  
-• Testing levels and types: functional, non-functional, regression, unit, integration  
-• Test design techniques: equivalence partitioning, boundary value analysis, pairwise testing  
-Tools:  
-• Postman – API testing (GET, POST, PUT, DELETE), request creation, response validation  
-• Jira – bug tracking, task creation, participation in test cycles   
-• Google Drive - storing data  
-• Git - for better work in development team and controlling software versions  
-• GitHub - supporting Git and preparing my repositories  
-• Workbench - practicing SQL   
-• Visual Studio Code - practicing HTML and CSS  
-• TestRail / Google Sheets – writing and maintaining test cases and checklists    
-• DevTools (Chrome) – DOM inspection, analyzing network requests, JavaScript console errors, working with LocalStorage and Cookies      
+Hi, my name is **Andrii**. Since early 2025, I’ve been studying and practicing to become a QA Engineer.  
+I’m happy to have finally found a field where I can develop myself professionally. In QA, I see the potential to make the digital world more user-friendly and reliable for everyone.
 
-Tech skills:  
-Databases:    
-• SQL   
-| Syntax and Order of Execution | Comparison Operators | Logical Operators | Scalar Functions                         | Aggregation Functions | Others     |
-|-------------------------------|-----------------------|-------------------|------------------------------------------|------------------------|------------|
-| SELECT (*, LIKE, TOP)         | =                     | AND               | GETDATE                                  | COUNT()               | JOIN       |
-| FROM                          | !=                    | BETWEEN           | UPPER                                    | SUM()                 | AS         |
-| WHERE                         | <>                    | IN                | LOWER                                    | MIN()                 | UNION      |
-| GROUP BY                      | >                     | LIKE              | DATEDIFF (HOUR, MONTH, YEAR, etc.)       |                        |            |
-| ORDER BY (ASC, DESC)          | <                     | NOT               |                                          |                        |            |
-| UPDATE (SET)                  | >=                    | OR                |                                          |                        |            |
-| ALTER TABLE (ADD)             | <=                    | IS NULL           |                                          |                        |            |
-| INSERT INTO                   | !<                    | IS NOT NULL       |                                          |                        |            |
-|                               | !>                    |                   |                                          |                        |            |
-			
-Rest API testing
-Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
-Creating test cases
-Reporting bugs
-Creating bug reports
-Basic HTML and CSS
-Creating documentation
-performing smoke tests
+In this portfolio, I share my knowledge and showcase practical skills gained through university studies and self-learning.  
+I’ve also started exploring test automation and am actively deepening my skills in that area.
 
-Test Documentation:  
-•	Writing test cases, checklists, and bug reports  
-•	Familiar with test plan creation 
+📎 [My LinkedIn profile](https://www.linkedin.com/in/andrii-droshchak)
 
-Soft skills 📁
-precision
-communication
-assertiveness
-patience
-empathy
+---
 
-Education
-Yuriy Fedkovych Chernivtsi National University
-Bachelor’s Degree in Computer Engineering
-Study program: Programming of Mobile and Embedded Computer Systems and Internet of Things Technologies
-Field of Study: Information Technology
-2019 – 2024
+## 🛠 Technical Skills
 
-1. [Demoblaze test].(https://github.com/AndrewQA69/demoblazetest/blob/main/testcases_demoblaze.xlsx)
+### Testing:
+- Understanding of **SDLC** and **STLC**
+- Testing types: functional, non-functional, regression, unit, integration
+- Test design techniques: equivalence partitioning, boundary value analysis, pairwise testing
+
+### Tools:
+- **Postman** – API testing (GET, POST, PUT, DELETE), request creation, response validation  
+- **Jira** – bug tracking, task creation, participation in test cycles  
+- **TestRail / Google Sheets** – writing and maintaining test cases and checklists  
+- **DevTools (Chrome)** – DOM inspection, analyzing network requests, JavaScript console, LocalStorage, Cookies  
+- **Workbench** – practicing SQL  
+- **Git / GitHub** – version control and repositories  
+- **Google Drive** – for storing QA documentation  
+- **VS Code** – practicing basic HTML and CSS  
+
+### Databases:
+- **SQL** – basic querying, joins, filters, aggregations
+
+| Syntax and Order | Comparison | Logical | Scalar Functions                | Aggregation Functions | Other     |
+|------------------|------------|---------|----------------------------------|------------------------|-----------|
+| SELECT, LIKE, TOP| =, !=, <>, >, <, >=, <=, !<, !> | AND, OR, NOT, BETWEEN, IN, IS NULL, IS NOT NULL | GETDATE, UPPER, LOWER, DATEDIFF | COUNT(), SUM(), MIN() | JOIN, UNION, AS |
+
+---
+
+## 🌐 REST API Testing
+- Basic understanding of API structure and testing principles  
+- Testing using **Postman**  
+- Validating response codes, headers, and body  
+
+---
+
+## 📄 Test Documentation
+- Writing test cases, checklists, bug reports  
+- Familiar with test plan creation  
+- Smoke testing and exploratory testing experience  
+
+---
+
+## 💡 Other Knowledge
+- Software development models: **Waterfall, V-model, Iterative & Incremental, Agile**  
+- Basic **HTML and CSS**  
+- Basic experience working in a **Scrum workflow**
+
+---
+
+## 🧠 Soft Skills
+- Precision  
+- Communication  
+- Assertiveness  
+- Patience  
+- Empathy  
+
+---
+
+## 🎓 Education
+
+**Yuriy Fedkovych Chernivtsi National University**  
+_Bachelor’s Degree in Computer Engineering_  
+**Study program:** Programming of Mobile and Embedded Computer Systems and Internet of Things Technologies  
+**Field of Study:** Information Technology  
+_2019 – 2024_
+
+---
+
+## 📁 Project Example
+
+🔹 **[Demoblaze Test – Test Cases (Excel)](https://github.com/AndrewQA69/demoblazetest/blob/main/testcases_demoblaze.xlsx)**  
+Personal manual testing practice on demoblaze.com – includes test cases for user flows such as login, registration, cart, and more.
+
+---
+
+## 📌 Next Steps
+- Expand API testing with collections and reports  
+- Learn Selenium or Cypress  
+- Create a full test plan  
+- Add automation samples to this portfolio
+
