@@ -31,8 +31,8 @@ I’ve also started exploring test automation and am actively deepening my skill
 
 ### Databases:
 - **SQL** – basic querying, joins, filters, aggregations  
-| Syntax and Order | Comparison | Logical | Scalar Functions                | Aggregation Functions | Other     |
-|------------------|------------|---------|----------------------------------|------------------------|-----------|
+| Syntax and Order | Comparison | Logical | Scalar Functions                | Aggregation Functions | Other     |  
+|------------------|------------|---------|----------------------------------|------------------------|-----------|  
 | SELECT, LIKE, TOP| =, !=, <>, >, <, >=, <=, !<, !> | AND, OR, NOT, BETWEEN, IN, IS NULL, IS NOT NULL | GETDATE, UPPER, LOWER, DATEDIFF | COUNT(), SUM(), MIN() | JOIN, UNION, AS |
 
 ---
