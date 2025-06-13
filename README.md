@@ -30,7 +30,8 @@ I’ve also started exploring test automation and am actively deepening my skill
 - **VS Code** – practicing basic HTML and CSS  
 
 ### Databases:
-- **SQL** – basic querying, joins, filters, aggregations  
+- **SQL** – basic querying, joins, filters, aggregations     
+
 Syntax and order of execution:
 SELECT (*, LIKE, TOP), FROM, WHERE, GROUP BY, ORDER BY (ASC, DESC), UPDATE (SET), ALTER TABLE (ADD), INSERT INTO
 
