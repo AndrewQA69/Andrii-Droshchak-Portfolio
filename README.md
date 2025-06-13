@@ -41,7 +41,7 @@ I’ve also started exploring test automation and am actively deepening my skill
 | UPDATE (SET)                  | >=                    | OR                |                                     |                        |         |
 | ALTER TABLE (ADD)             | <=                    | IS NULL           |                                     |                        |         |
 | INSERT INTO                   | !<                    | IS NOT NULL       |                                     |                        |         |
-|                               | !>                    |                   |          
+|                               | !>                    |                   |                                     |                        |         |
 
 
 ## 🌐 REST API Testing
