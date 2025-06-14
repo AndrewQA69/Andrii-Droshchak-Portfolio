@@ -97,7 +97,7 @@ _2019 – 2024_
 ## 📁 Project Example
 
 🔹 [Demoblaze Test Project](https://github.com/AndrewQA69/demoblazetest)
-🔹 [Basic Queries]([https://github.com/AndrewQA69/demoblazetest](https://github.com/AndrewQA69/SQL_QA/blob/main/sql_junior_qa.sql.docx))
+🔹 [Basic Queries](https://github.com/AndrewQA69/SQL_QA/blob/main/sql_junior_qa.sql.docx)
 
 Personal manual testing practice on demoblaze.com – includes test cases for user flows such as login, registration, cart, and more.
 
