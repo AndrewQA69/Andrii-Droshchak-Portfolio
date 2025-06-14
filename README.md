@@ -97,6 +97,7 @@ _2019 – 2024_
 ## 📁 Project Example
 
 🔹 [Demoblaze Test Project](https://github.com/AndrewQA69/demoblazetest)
+🔹 [Basic Queries](https://github.com/AndrewQA69/demoblazetest)
 
 Personal manual testing practice on demoblaze.com – includes test cases for user flows such as login, registration, cart, and more.
 
